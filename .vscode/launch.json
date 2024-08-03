@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Efinal2PwApiP6DrApplication<efinal2_pw_api_p6_dr>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.diegorivas.efinal2_pw_api_p6_dr.Efinal2PwApiP6DrApplication",
+            "projectName": "efinal2_pw_api_p6_dr",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
